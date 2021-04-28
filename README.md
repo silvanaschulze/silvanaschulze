@@ -1,7 +1,11 @@
 # README.md
 About me
 
-### <div align="center">I´m Silvana Schulze, Junior Full Stack Web & App Developer, with keen affinity for the Front-End. My objective is to create and maintain optimally functional websites and applications as tools in achieving the company’s mission and vision. </div>  
+<div align="center">
+<img src="https://de.scalable.capital/images/3odztfgndkxn/2KKrBpR5eAu52gXFY6gdBs/c1e84cb99c3e5277607ef8159a0e1fb9/hello_world_new_black.png" align="center" style="width: 100%" />
+</div> 
+
+### <div align="center" style="width: 100%">I´m Silvana Schulze, Junior Full Stack Web & App Developer, with keen affinity for the Front-End. My objective is to create and maintain optimally functional websites and applications as tools in achieving the company’s mission and vision. </div>  
   
 
 - 💻 I'm currently working on my own project  
