@@ -1,6 +1,9 @@
 # README.md
 About me
 
+<div align="center">
+<img src="https://www.apiscene.io/wp-content/uploads/2020/05/stock-image-243619792-xl-2015-750x450.jpg" align="center" style="width: 100%" />
+</div>  
 
 ### <div align="center">I´m Silvana Schulze, Junior Full Stack Web & App Developer, with keen affinity for the Front-End. My objective is to create and maintain optimally functional websites and applications as tools in achieving the company’s mission and vision. </div>  
   
