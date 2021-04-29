@@ -1,6 +1,6 @@
 
 ### Hi There :)
-About Silvana
+About me
 
 <div align="center">
 <img src="https://www.apiscene.io/wp-content/uploads/2020/05/stock-image-243619792-xl-2015-750x450.jpg" align="center" style="width: 100%" />
